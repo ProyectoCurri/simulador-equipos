@@ -1,1 +1,1 @@
-# SimuladorEquipos
+# Simulador de Equipos para RV
